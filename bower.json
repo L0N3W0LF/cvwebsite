@@ -1,0 +1,11 @@
+{
+  "name": "cvwebsite",
+  "version": "0.1.0",
+  "homepage": "https://github.com/L0N3W0LF/cvwebsite",
+  "description": "CV Website",
+  "authors": [
+    "Ferdinand Bermudez"
+  ],
+  "license": "MIT",
+  "main": "index.html"
+}

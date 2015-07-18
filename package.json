@@ -1,0 +1,24 @@
+{
+  "name": "cvwebsite",
+  "version": "0.1.0",
+  "description": "CV Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/L0N3W0LF/cvwebsite.git"
+  },
+  "author": "Ferdinand Bermudez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/L0N3W0LF/cvwebsite/issues"
+  },
+  "homepage": "https://github.com/L0N3W0LF/cvwebsite",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^0.15.0",
+    "gulp-htmlhint": "^0.2.1"
+  }
+}
