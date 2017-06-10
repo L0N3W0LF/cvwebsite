@@ -17,7 +17,3 @@ console.log('' +
   "         \\   `'  / \\  `'  / \\  `.' /\n" +
   "          `.___,'   `.__,'   `.__,'   Here be dragons\n\n");
   /* eslint-disable */
-
-var test = {
-  test:'a'
-}

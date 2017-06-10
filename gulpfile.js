@@ -1,14 +1,14 @@
 'use strict';
 
-var eslint = require('gulp-eslint');
-var gulp = require('gulp');
-var htmlhint = require('gulp-htmlhint');
+let eslint = require('gulp-eslint');
+let gulp = require('gulp');
+let htmlhint = require('gulp-htmlhint');
 
-var paths = {
+let paths = {
   eslintrc: ['.eslintrc'],
-  html: ['index.html'],
+  html: ['src/**/*.html'],
   htmlhintrc: ['.htmlhintrc'],
-  js: ['js/**/*.js', 'gulpfile.js']
+  js: ['src/**/*.js', 'gulpfile.js']
 };
 
 gulp.task('default', ['watch']);

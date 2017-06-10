@@ -4,7 +4,7 @@
   "description": "CV Website",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "gulp"
   },
   "repository": {
     "type": "git",
@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/L0N3W0LF/cvwebsite",
   "devDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-eslint": "^0.15.0",
-    "gulp-htmlhint": "^0.2.1"
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-htmlhint": "^0.3.1"
   }
 }
